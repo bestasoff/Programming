@@ -10,6 +10,8 @@ Interesting staff from my coding experience
 6. [`LRU-cache` idiome](https://github.com/bestasoff/Programming/blob/main/C%2B%2B/lru_cache.h)
 7. [Generate all permutations of first `n` elements lexicographically](https://github.com/bestasoff/Programming/blob/main/C%2B%2B/permutations.h)
 8. [Smart pointer wrappers](https://github.com/bestasoff/Programming/blob/main/C%2B%2B/smart_ptr.h)
+9. [`Buffered channel`](https://github.com/bestasoff/Programming/blob/main/C%2B%2B/buffered_channel.h)
+10. [Parallel matrix multiplication](https://github.com/bestasoff/Programming/blob/main/C%2B%2B/matrix_multiplication.cpp)
 
 ## Python3
 1. [`Merge k lists` problem](https://github.com/bestasoff/Programming/blob/main/Python3/merge_k_lists.md)
