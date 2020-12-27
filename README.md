@@ -17,3 +17,12 @@ Interesting staff from my coding experience
 13. [`Vector` implementation](https://github.com/bestasoff/Programming/blob/main/C%2B%2B/vector.h)
 
 ## Python3
+1. [`Merge k lists` problem](https://github.com/bestasoff/Programming/blob/main/Python3/merge_k_lists.md)
+2. [Bind given arguments with function signature](https://github.com/bestasoff/Programming/blob/main/Python3/arg_binding.py)
+3. [Standart `input` wrapper](https://github.com/bestasoff/Programming/blob/main/Python3/input_.py)
+4. [`LRU-cache` idiome](https://github.com/bestasoff/Programming/blob/main/Python3/lru_cache.py)
+5. [Normalize `UNIX` path](https://github.com/bestasoff/Programming/blob/main/Python3/normalize_path.py)
+6. [Count function time decorator](https://github.com/bestasoff/Programming/blob/main/Python3/profiler.py)
+7. [Read last lines](https://github.com/bestasoff/Programming/blob/main/Python3/tail.py)
+8. [Decode typed json](https://github.com/bestasoff/Programming/blob/main/Python3/typed_json_decoder.py)
+9. [Count distance to initialize article](https://github.com/bestasoff/Programming/blob/main/Python3/wiki_distance.py)
