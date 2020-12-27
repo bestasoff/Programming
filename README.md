@@ -31,4 +31,8 @@ Interesting staff from my coding experience
 3. [`Intrusive list` idiome](https://github.com/bestasoff/Programming/blob/main/Algorithms%20and%20Data%20Structures/intrusive_list.h)
 4. [`Linked list` implementation](https://github.com/bestasoff/Programming/blob/main/Algorithms%20and%20Data%20Structures/list.h)
 5. [`Vector` implementation](https://github.com/bestasoff/Programming/blob/main/Algorithms%20and%20Data%20Structures/vector.h)
-
+6. [`BST` implementation](https://github.com/bestasoff/Programming/blob/main/Algorithms%20and%20Data%20Structures/binary_search_tree.cpp)
+7. [Binary search](https://github.com/bestasoff/Programming/blob/main/Algorithms%20and%20Data%20Structures/binary_search.cpp)
+8. [`Heap Sort`](https://github.com/bestasoff/Programming/blob/main/Algorithms%20and%20Data%20Structures/heap_sort.cpp)
+9. [`Hoar Sort`](https://github.com/bestasoff/Programming/blob/main/Algorithms%20and%20Data%20Structures/hoar_sort.cpp)
+10. [`Merge Sort`](https://github.com/bestasoff/Programming/blob/main/Algorithms%20and%20Data%20Structures/merge_sort.cpp)
