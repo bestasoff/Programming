@@ -43,4 +43,4 @@ Interesting staff from my coding experience
 15. [`K-ordered statistics`](https://github.com/bestasoff/Programming/blob/main/Algorithms%20and%20Data%20Structures/k_ordered_statistics.cpp)
 16. [Longest alternate sequence](https://github.com/bestasoff/Programming/blob/main/Algorithms%20and%20Data%20Structures/longest_alternate.cpp)
 17. [Finding strong conncectivity components](https://github.com/bestasoff/Programming/blob/main/Algorithms%20and%20Data%20Structures/scc.cpp)
-18. [0..k BFS idea](https://github.com/bestasoff/Programming/blob/main/Algorithms%20and%20Data%20Structures/zero_k_bfs.cpp)
+18. [`0..k BFS` idea](https://github.com/bestasoff/Programming/blob/main/Algorithms%20and%20Data%20Structures/zero_k_bfs.cpp)
