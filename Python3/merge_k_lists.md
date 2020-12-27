@@ -80,7 +80,6 @@ def merge(input_streams: tp.Sequence[tp.IO[bytes]], output_stream: tp.IO[bytes])
     heapq.heapify(arr)
     while len(arr) > 0:
         now = heapq.heappop(arr)
-        # print(now[0])
         output_stream.write(bytes(f"{now[0]}\n", "utf8"))
         next_line = input_streams[now[1]].readline()
         if len(next_line) > 0:
