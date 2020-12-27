@@ -23,6 +23,7 @@ Interesting staff from my coding experience
 7. [Read last lines](https://github.com/bestasoff/Programming/blob/main/Python3/tail.py)
 8. [Decode typed json](https://github.com/bestasoff/Programming/blob/main/Python3/typed_json_decoder.py)
 9. [Count distance to initialize article](https://github.com/bestasoff/Programming/blob/main/Python3/wiki_distance.py)
+10. [Flatten sequence](https://github.com/bestasoff/Programming/blob/main/Python3/flat_it.py)
 
 ## Algorithms and Data Structures
 1. [`Copy-on-write vector` idiome](https://github.com/bestasoff/Programming/blob/main/Algorithms%20and%20Data%20Structures/cow_vector.h)
