@@ -2,7 +2,7 @@
 Interesting staff from my coding experience
 
 ## C++
-1. ["Any" idiome](https://github.com/bestasoff/Programming/blob/main/C%2B%2B/any.h)
+1. [`Any` idiome](https://github.com/bestasoff/Programming/blob/main/C%2B%2B/any.h)
 2. [Simple `calculator` implementation](https://github.com/bestasoff/Programming/blob/main/C%2B%2B/calculator.h)
 3. [Folding expression](https://github.com/bestasoff/Programming/blob/main/C%2B%2B/fold.h)
 4. [Partial functionalality of `grep` command implementation](https://github.com/bestasoff/Programming/blob/main/C%2B%2B/grep.h)
