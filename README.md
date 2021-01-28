@@ -12,6 +12,7 @@ Interesting staff from my coding experience
 8. [Smart pointer wrappers](https://github.com/bestasoff/Programming/blob/main/C%2B%2B/smart_ptr.h)
 9. [`Buffered channel`](https://github.com/bestasoff/Programming/blob/main/C%2B%2B/buffered_channel.h)
 10. [Parallel matrix multiplication](https://github.com/bestasoff/Programming/blob/main/C%2B%2B/matrix_multiplication.cpp)
+11. [Normalize `UNIX` path](https://github.com/bestasoff/Programming/blob/main/C%2B%2B/normalize_unix_path.cpp)
 
 ## Python3
 1. [`Merge k lists` problem](https://github.com/bestasoff/Programming/blob/main/Python3/merge_k_lists.md)
