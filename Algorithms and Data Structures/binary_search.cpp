@@ -3,18 +3,18 @@
 
 using namespace std;
 
-int Binary_Search(const vector<int>& input, int l, int r, int x, int n) {
-    if(r >= l)
-    {
-        int mid = (l + r) / 2;
-        if( ( mid == 0 || x > input[mid-1]) && input[mid] == x)
-            return mid;
-        else if(x > input[mid])
-            return Binary_Search(input, (mid + 1), r, x, n);
-        else
-            return Binary_Search(input, l, (mid -1), x, n);
+bool BinarySearch(std::vector<int>& a, int begin, int end, int val) {
+    while (begin <= end) {
+        int middle = (begin + end) / 2;
+        if (a[middle] == val) {
+            return true;
+        } else if (a[middle] < val) {
+            begin = middle + 1;
+        } else {
+            end = middle - 1;
+        }
     }
-    return -1;
+    return false;
 }
 
 int Upper_Bound(const vector<int>& a, int x) {
