@@ -46,3 +46,4 @@ Interesting staff from my coding experience
 17. [Finding strong conncectivity components](https://github.com/bestasoff/Programming/blob/main/Algorithms%20and%20Data%20Structures/scc.cpp)
 18. [`0..k BFS` idea](https://github.com/bestasoff/Programming/blob/main/Algorithms%20and%20Data%20Structures/zero_k_bfs.cpp)
 19. [Largest common subsequence problem](https://github.com/bestasoff/Programming/blob/main/Algorithms%20and%20Data%20Structures/lcs.cpp)
+20. [`Concurrent hash table` implementation](https://github.com/bestasoff/Programming/blob/main/C%2B%2B/concurrent_hash_table.cpp)
