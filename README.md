@@ -13,6 +13,7 @@ Interesting staff from my coding experience
 9. [`Buffered channel`](https://github.com/bestasoff/Programming/blob/main/C%2B%2B/buffered_channel.h)
 10. [Parallel matrix multiplication](https://github.com/bestasoff/Programming/blob/main/C%2B%2B/matrix_multiplication.cpp)
 11. [Normalize `UNIX` path](https://github.com/bestasoff/Programming/blob/main/C%2B%2B/normalize_unix_path.cpp)
+12. [`Semaphore`](https://github.com/bestasoff/Programming/blob/main/C%2B%2B/semaphore.cpp)
 
 ## Python3
 1. [`Merge k lists` problem](https://github.com/bestasoff/Programming/blob/main/Python3/merge_k_lists.md)
