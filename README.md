@@ -49,3 +49,6 @@ Interesting staff from my coding experience
 18. [`0..k BFS` idea](https://github.com/bestasoff/Programming/blob/main/Algorithms%20and%20Data%20Structures/zero_k_bfs.cpp)
 19. [Largest common subsequence problem](https://github.com/bestasoff/Programming/blob/main/Algorithms%20and%20Data%20Structures/lcs.cpp)
 20. [`Concurrent hash table` implementation](https://github.com/bestasoff/Programming/blob/main/C%2B%2B/concurrent_hash_table.cpp)
+
+## ML useful links
+1. [PCA explained](https://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues/140579#140579)
