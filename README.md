@@ -51,4 +51,4 @@ Interesting staff from my coding experience
 20. [`Concurrent hash table` implementation](https://github.com/bestasoff/Programming/blob/main/C%2B%2B/concurrent_hash_table.cpp)
 
 ## ML useful links
-1. [Principal component analysis(PCA) explained](https://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues/140579#140579)
+1. [Principal component analysis(`PCA`) explained](https://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues/140579#140579)
