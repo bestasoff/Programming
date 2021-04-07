@@ -52,3 +52,4 @@ Interesting staff from my coding experience
 
 ## ML useful links
 1. [Principal component analysis(`PCA`) explained](https://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues/140579#140579)
+2. [TSNE article](http://jmlr.csail.mit.edu/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)
