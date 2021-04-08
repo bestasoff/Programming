@@ -1,5 +1,5 @@
 # Programming
-Interesting staff from my coding experience
+### Useful staff
 
 ## C++
 1. [`Any` idiome](https://github.com/bestasoff/Programming/blob/main/C%2B%2B/any.h)
