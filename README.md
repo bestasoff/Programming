@@ -29,7 +29,7 @@
 10. [Flatten sequence](https://github.com/bestasoff/Programming/blob/main/Python3/flat_it.py)
 
 ## Golang
-1. [Set and Get unexported fields]()
+1. [Set and Get unexported fields](https://github.com/bestasoff/Programming/blob/main/Go/setAndGetUnexportedFields.go)
 
 ## Algorithms and Data Structures
 1. [`Copy-on-write vector` idiome](https://github.com/bestasoff/Programming/blob/main/Algorithms%20and%20Data%20Structures/cow_vector.h)
