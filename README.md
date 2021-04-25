@@ -58,6 +58,7 @@
 2. [`TSNE` article](http://jmlr.csail.mit.edu/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)
 3. [Decomposition techniques](https://www.kaggle.com/shivamb/dataset-decomposition-techniques)
 4. [An overview of gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/index.html#stochasticgradientdescent)
+5. [Энтропия: золотая мера машинного обучения](https://vc.ru/ml/151037-entropiya-zolotaya-mera-mashinnogo-obucheniya)
 
 ## Useful links
 1. [Archive of articles](https://arxiv.org/)
