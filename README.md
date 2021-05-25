@@ -1,5 +1,5 @@
 # Programming
-### Useful staff
+### Useful stuff
 
 ## C++
 1. [`Any` idiome](https://github.com/bestasoff/Programming/blob/main/C%2B%2B/any.h)
